@@ -4,6 +4,6 @@ This repository documents my commitment to coding every day for the next 365 day
 
 Goals:
 
-#Code daily for 365 days.
-#Solve a variety of programming problems.
-#Document my coding journey and lessons learned.
+**Code daily for 365 days.**
+->Solve a variety of programming problems.
+->Document my coding journey and lessons learned.
